@@ -10,6 +10,8 @@ Currently working:
 
 Upcoming:
 - Implant Details
+- Consistent sort order
+- Consistent implant colors
 
 ## Getting Started
 - Install Node 18.9
