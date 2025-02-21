@@ -625,7 +625,7 @@ export class Member {
     this._duplicateImplantsCache = duplicates;
     return duplicates;
   }
-
+}
 /**
  * Our global map of all Mod objects: product name => single Mod instance
  */
