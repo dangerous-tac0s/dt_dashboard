@@ -626,14 +626,6 @@ export class Member {
     return duplicates;
   }
 
-  // You could define many other cached or uncached properties.
-  // e.g. has_chip, has_magnet, etc.
-
-  // If you ever need to add or remove mods, you'd reset these caches:
-  // this._implantsCache = null;
-  // this._duplicateImplantsCache = null;
-}
-
 /**
  * Our global map of all Mod objects: product name => single Mod instance
  */
